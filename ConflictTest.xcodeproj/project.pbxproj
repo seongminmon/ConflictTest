@@ -51,7 +51,7 @@
 		24EFE99E2CB4F6C7007A813C /* ConflictTest */ = {
 			isa = PBXGroup;
 			children = (
-				24EFE9AD2CB4F89F007A813C /* Den */,
+				24EFE9AE2CB4FA2E007A813C /* Bran */,
 				24EFE9A52CB4F6C8007A813C /* Preview Content */,
 			);
 			path = ConflictTest;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		24EFE9AD2CB4F89F007A813C /* Den */ = {
+		24EFE9AE2CB4FA2E007A813C /* Bran */ = {
 			isa = PBXGroup;
 			children = (
 				24EFE99F2CB4F6C7007A813C /* ConflictTestApp.swift */,
 				24EFE9A12CB4F6C7007A813C /* ContentView.swift */,
 				24EFE9A32CB4F6C8007A813C /* Assets.xcassets */,
 			);
-			path = Den;
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
